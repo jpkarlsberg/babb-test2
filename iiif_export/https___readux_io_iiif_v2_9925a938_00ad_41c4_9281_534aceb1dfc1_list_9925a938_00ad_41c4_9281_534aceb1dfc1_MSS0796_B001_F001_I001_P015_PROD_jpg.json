@@ -1,0 +1,2523 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://readux.io/iiif/v2/9925a938-00ad-41c4-9281-534aceb1dfc1/list/9925a938-00ad-41c4-9281-534aceb1dfc1_MSS0796-B001-F001-I001-P015-PROD.jpg",
+    "@type": "sc:AnnotationList",
+    "resources": [
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "1dc52d09-89e8-49c7-afe1-157d6d1d1ae1",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='1dc52d09-89e8-49c7-afe1-157d6d1d1ae1' class='anno-1dc52d09-89e8-49c7-afe1-157d6d1d1ae1' data-letter-spacing='0.005641558841651263'>Horace Book1. Ode XXII imitated </span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/9925a938-00ad-41c4-9281-534aceb1dfc1/canvas/9925a938-00ad-41c4-9281-534aceb1dfc1_MSS0796-B001-F001-I001-P015-PROD.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/9925a938-00ad-41c4-9281-534aceb1dfc1/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=430,164,1623,133",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-1dc52d09-89e8-49c7-afe1-157d6d1d1ae1: { height: 133px; width: 1623px; font-size: 83.125px; letter-spacing: 9.15625px;}"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "50fe1399-d77f-4701-94cf-f78c3bab06e6",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='50fe1399-d77f-4701-94cf-f78c3bab06e6' class='anno-50fe1399-d77f-4701-94cf-f78c3bab06e6' data-letter-spacing='-0.008472971475022168'>The freeholder whose sure defence </span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/9925a938-00ad-41c4-9281-534aceb1dfc1/canvas/9925a938-00ad-41c4-9281-534aceb1dfc1_MSS0796-B001-F001-I001-P015-PROD.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/9925a938-00ad-41c4-9281-534aceb1dfc1/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=429,247,1592,193",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-50fe1399-d77f-4701-94cf-f78c3bab06e6: { height: 193px; width: 1592px; font-size: 120.625px; letter-spacing: -13.488970588235293px;}"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "c5a66740-cf6d-4be4-94cc-3b8f77f74735",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='c5a66740-cf6d-4be4-94cc-3b8f77f74735' class='anno-c5a66740-cf6d-4be4-94cc-3b8f77f74735' data-letter-spacing='-0.00012006118673813025'>I good Old English innocence,</span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/9925a938-00ad-41c4-9281-534aceb1dfc1/canvas/9925a938-00ad-41c4-9281-534aceb1dfc1_MSS0796-B001-F001-I001-P015-PROD.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/9925a938-00ad-41c4-9281-534aceb1dfc1/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=407,377,1454,161",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-c5a66740-cf6d-4be4-94cc-3b8f77f74735: { height: 161px; width: 1454px; font-size: 100.625px; letter-spacing: -0.17456896551724138px;}"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "33bbda78-3fb8-4252-9960-40ce6cd50fec",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='33bbda78-3fb8-4252-9960-40ce6cd50fec' class='anno-33bbda78-3fb8-4252-9960-40ce6cd50fec' data-letter-spacing='-0.0022346651600110867'>Requires no Holdiers to attend </span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/9925a938-00ad-41c4-9281-534aceb1dfc1/canvas/9925a938-00ad-41c4-9281-534aceb1dfc1_MSS0796-B001-F001-I001-P015-PROD.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/9925a938-00ad-41c4-9281-534aceb1dfc1/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=405,484,1513,167",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-33bbda78-3fb8-4252-9960-40ce6cd50fec: { height: 167px; width: 1513px; font-size: 104.375px; letter-spacing: -3.381048387096774px;}"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "9fbd8438-cba6-463b-a1da-9b646676cb5f",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='9fbd8438-cba6-463b-a1da-9b646676cb5f' class='anno-9fbd8438-cba6-463b-a1da-9b646676cb5f' data-letter-spacing='-0.0024305555555555556'>His Steps, for honestys his friend </span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/9925a938-00ad-41c4-9281-534aceb1dfc1/canvas/9925a938-00ad-41c4-9281-534aceb1dfc1_MSS0796-B001-F001-I001-P015-PROD.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/9925a938-00ad-41c4-9281-534aceb1dfc1/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=405,592,1512,150",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-9fbd8438-cba6-463b-a1da-9b646676cb5f: { height: 150px; width: 1512px; font-size: 93.75px; letter-spacing: -3.675px;}"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "ee55df2b-0737-442a-b40c-f510f5447c11",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='ee55df2b-0737-442a-b40c-f510f5447c11' class='anno-ee55df2b-0737-442a-b40c-f510f5447c11' data-letter-spacing='0.003251996711299037'>armd with this addmantine shield </span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/9925a938-00ad-41c4-9281-534aceb1dfc1/canvas/9925a938-00ad-41c4-9281-534aceb1dfc1_MSS0796-B001-F001-I001-P015-PROD.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/9925a938-00ad-41c4-9281-534aceb1dfc1/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=409,688,1548,134",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-ee55df2b-0737-442a-b40c-f510f5447c11: { height: 134px; width: 1548px; font-size: 83.75px; letter-spacing: 5.034090909090909px;}"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "8a3df46c-0d44-44dc-99ab-a95130a5d5f8",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='8a3df46c-0d44-44dc-99ab-a95130a5d5f8' class='anno-8a3df46c-0d44-44dc-99ab-a95130a5d5f8' data-letter-spacing='-0.003201415701415701'>He boldly treads his native field, </span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/9925a938-00ad-41c4-9281-534aceb1dfc1/canvas/9925a938-00ad-41c4-9281-534aceb1dfc1_MSS0796-B001-F001-I001-P015-PROD.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/9925a938-00ad-41c4-9281-534aceb1dfc1/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=395,790,1554,158",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-8a3df46c-0d44-44dc-99ab-a95130a5d5f8: { height: 158px; width: 1554px; font-size: 98.75px; letter-spacing: -4.975px;}"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "604a1ca4-dd57-4360-a903-1c10bb32160f",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='604a1ca4-dd57-4360-a903-1c10bb32160f' class='anno-604a1ca4-dd57-4360-a903-1c10bb32160f' data-letter-spacing='-0.001530334995524869'>Fearless of highwaymen and pectors, </span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/9925a938-00ad-41c4-9281-534aceb1dfc1/canvas/9925a938-00ad-41c4-9281-534aceb1dfc1_MSS0796-B001-F001-I001-P015-PROD.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/9925a938-00ad-41c4-9281-534aceb1dfc1/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=410,887,1738,163",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-604a1ca4-dd57-4360-a903-1c10bb32160f: { height: 163px; width: 1738px; font-size: 101.875px; letter-spacing: -2.6597222222222223px;}"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "183b0925-93c7-43a4-a362-406636e9138c",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='183b0925-93c7-43a4-a362-406636e9138c' class='anno-183b0925-93c7-43a4-a362-406636e9138c' data-letter-spacing='-0.006982731068096922'>Placemen, excesemen, & directors.</span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/9925a938-00ad-41c4-9281-534aceb1dfc1/canvas/9925a938-00ad-41c4-9281-534aceb1dfc1_MSS0796-B001-F001-I001-P015-PROD.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/9925a938-00ad-41c4-9281-534aceb1dfc1/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=408,996,1517,181",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-183b0925-93c7-43a4-a362-406636e9138c: { height: 181px; width: 1517px; font-size: 113.125px; letter-spacing: -10.592803030303031px;}"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "28abd042-607b-40c8-9554-68acf4975f1b",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='28abd042-607b-40c8-9554-68acf4975f1b' class='anno-28abd042-607b-40c8-9554-68acf4975f1b' data-letter-spacing='-0.002577141275771413'>Last night Itrredgd along the Strand</span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/9925a938-00ad-41c4-9281-534aceb1dfc1/canvas/9925a938-00ad-41c4-9281-534aceb1dfc1_MSS0796-B001-F001-I001-P015-PROD.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/9925a938-00ad-41c4-9281-534aceb1dfc1/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=354,1159,1606,156",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-28abd042-607b-40c8-9554-68acf4975f1b: { height: 156px; width: 1606px; font-size: 97.5px; letter-spacing: -4.138888888888889px;}"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "806e4b79-7f5f-4bcc-b7bf-6c7cce2fcec1",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='806e4b79-7f5f-4bcc-b7bf-6c7cce2fcec1' class='anno-806e4b79-7f5f-4bcc-b7bf-6c7cce2fcec1' data-letter-spacing='0.005167720722986812'>A courttier takes me (by the hand </span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/9925a938-00ad-41c4-9281-534aceb1dfc1/canvas/9925a938-00ad-41c4-9281-534aceb1dfc1_MSS0796-B001-F001-I001-P015-PROD.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/9925a938-00ad-41c4-9281-534aceb1dfc1/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=334,1285,1637,127",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-806e4b79-7f5f-4bcc-b7bf-6c7cce2fcec1: { height: 127px; width: 1637px; font-size: 79.375px; letter-spacing: 8.459558823529411px;}"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "4a8865d5-2d14-4231-a8df-4d2a559fc61c",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='4a8865d5-2d14-4231-a8df-4d2a559fc61c' class='anno-4a8865d5-2d14-4231-a8df-4d2a559fc61c' data-letter-spacing='0.004872134038800705'>And while my principles he sounds, </span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/9925a938-00ad-41c4-9281-534aceb1dfc1/canvas/9925a938-00ad-41c4-9281-534aceb1dfc1_MSS0796-B001-F001-I001-P015-PROD.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/9925a938-00ad-41c4-9281-534aceb1dfc1/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=358,1397,1701,129",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-4a8865d5-2d14-4231-a8df-4d2a559fc61c: { height: 129px; width: 1701px; font-size: 80.625px; letter-spacing: 8.2875px;}"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "eea4bc41-527e-40df-922f-383a58bf7c4d",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='eea4bc41-527e-40df-922f-383a58bf7c4d' class='anno-eea4bc41-527e-40df-922f-383a58bf7c4d' data-letter-spacing='0.004176980198019802'>He otters me a thousand pounds, </span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/9925a938-00ad-41c4-9281-534aceb1dfc1/canvas/9925a938-00ad-41c4-9281-534aceb1dfc1_MSS0796-B001-F001-I001-P015-PROD.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/9925a938-00ad-41c4-9281-534aceb1dfc1/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=330,1472,1616,140",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-eea4bc41-527e-40df-922f-383a58bf7c4d: { height: 140px; width: 1616px; font-size: 87.5px; letter-spacing: 6.75px;}"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "22108e59-adf3-4fd1-870c-41a24534321c",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='22108e59-adf3-4fd1-870c-41a24534321c' class='anno-22108e59-adf3-4fd1-870c-41a24534321c' data-letter-spacing='0.0008411774419948806'>But finding that I scornd his pay</span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/9925a938-00ad-41c4-9281-534aceb1dfc1/canvas/9925a938-00ad-41c4-9281-534aceb1dfc1_MSS0796-B001-F001-I001-P015-PROD.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/9925a938-00ad-41c4-9281-534aceb1dfc1/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=340,1575,1835,173",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-22108e59-adf3-4fd1-870c-41a24534321c: { height: 173px; width: 1835px; font-size: 108.125px; letter-spacing: 1.543560606060606px;}"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "74280e73-eeac-4f39-943a-399f04166df7",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='74280e73-eeac-4f39-943a-399f04166df7' class='anno-74280e73-eeac-4f39-943a-399f04166df7' data-letter-spacing='-0.0022845430913817234'>The dirty Prascal sneakd aways</span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/9925a938-00ad-41c4-9281-534aceb1dfc1/canvas/9925a938-00ad-41c4-9281-534aceb1dfc1_MSS0796-B001-F001-I001-P015-PROD.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/9925a938-00ad-41c4-9281-534aceb1dfc1/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=356,1668,1667,190",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-74280e73-eeac-4f39-943a-399f04166df7: { height: 190px; width: 1667px; font-size: 118.75px; letter-spacing: -3.808333333333333px;}"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "de426c29-139c-4328-9412-ea7c2c7288f9",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='de426c29-139c-4328-9412-ea7c2c7288f9' class='anno-de426c29-139c-4328-9412-ea7c2c7288f9' data-letter-spacing='0.004584871745044695'>Fett monster) readier to derur </span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/9925a938-00ad-41c4-9281-534aceb1dfc1/canvas/9925a938-00ad-41c4-9281-534aceb1dfc1_MSS0796-B001-F001-I001-P015-PROD.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/9925a938-00ad-41c4-9281-534aceb1dfc1/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=360,1777,1660,147",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-de426c29-139c-4328-9412-ea7c2c7288f9: { height: 147px; width: 1660px; font-size: 91.875px; letter-spacing: 7.610887096774194px;}"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "1daf5c02-2621-4626-914f-bf3278d782b5",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='1daf5c02-2621-4626-914f-bf3278d782b5' class='anno-1daf5c02-2621-4626-914f-bf3278d782b5' data-letter-spacing='-0.004105571847507331'>Shan alt the sions in the Tower</span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/9925a938-00ad-41c4-9281-534aceb1dfc1/canvas/9925a938-00ad-41c4-9281-534aceb1dfc1_MSS0796-B001-F001-I001-P015-PROD.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/9925a938-00ad-41c4-9281-534aceb1dfc1/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=362,1873,1650,192",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-1daf5c02-2621-4626-914f-bf3278d782b5: { height: 192px; width: 1650px; font-size: 120.0px; letter-spacing: -6.774193548387097px;}"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "17e37729-276a-43c4-9b80-5bf56be538fa",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='17e37729-276a-43c4-9b80-5bf56be538fa' class='anno-17e37729-276a-43c4-9b80-5bf56be538fa' data-letter-spacing='-0.003829887218045113'>Place me af Scotland in the middle </span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/9925a938-00ad-41c4-9281-534aceb1dfc1/canvas/9925a938-00ad-41c4-9281-534aceb1dfc1_MSS0796-B001-F001-I001-P015-PROD.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/9925a938-00ad-41c4-9281-534aceb1dfc1/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=339,2026,1900,197",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-17e37729-276a-43c4-9b80-5bf56be538fa: { height: 197px; width: 1900px; font-size: 123.125px; letter-spacing: -7.276785714285714px;}"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "b2d92d3c-7230-448f-b7b7-53765b8c537b",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='b2d92d3c-7230-448f-b7b7-53765b8c537b' class='anno-b2d92d3c-7230-448f-b7b7-53765b8c537b' data-letter-spacing='0.0029634847449908925'>Formented with the tickling Liddle, </span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/9925a938-00ad-41c4-9281-534aceb1dfc1/canvas/9925a938-00ad-41c4-9281-534aceb1dfc1_MSS0796-B001-F001-I001-P015-PROD.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/9925a938-00ad-41c4-9281-534aceb1dfc1/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=342,2184,1952,155",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-b2d92d3c-7230-448f-b7b7-53765b8c537b: { height: 155px; width: 1952px; font-size: 96.875px; letter-spacing: 5.784722222222222px;}"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "c7097c89-5a0c-4f2f-bd91-e90814b9e225",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='c7097c89-5a0c-4f2f-bd91-e90814b9e225' class='anno-c7097c89-5a0c-4f2f-bd91-e90814b9e225' data-letter-spacing='0.0008818383187833889'>yet still disdaining to befsold</span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/9925a938-00ad-41c4-9281-534aceb1dfc1/canvas/9925a938-00ad-41c4-9281-534aceb1dfc1_MSS0796-B001-F001-I001-P015-PROD.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/9925a938-00ad-41c4-9281-534aceb1dfc1/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=357,2259,1733,174",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-c7097c89-5a0c-4f2f-bd91-e90814b9e225: { height: 174px; width: 1733px; font-size: 108.75px; letter-spacing: 1.528225806451613px;}"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "fc91cf0d-c5a3-4cf5-b2da-4133d118d3a9",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='fc91cf0d-c5a3-4cf5-b2da-4133d118d3a9' class='anno-fc91cf0d-c5a3-4cf5-b2da-4133d118d3a9' data-letter-spacing='-0.0006749743805344614'>My fingers neers should itch for golo </span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/9925a938-00ad-41c4-9281-534aceb1dfc1/canvas/9925a938-00ad-41c4-9281-534aceb1dfc1_MSS0796-B001-F001-I001-P015-PROD.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/9925a938-00ad-41c4-9281-534aceb1dfc1/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=375,2378,2003,173",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-fc91cf0d-c5a3-4cf5-b2da-4133d118d3a9: { height: 173px; width: 2003px; font-size: 108.125px; letter-spacing: -1.3519736842105263px;}"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "e7b3898c-17dd-4573-b753-8595e32c9517",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='e7b3898c-17dd-4573-b753-8595e32c9517' class='anno-e7b3898c-17dd-4573-b753-8595e32c9517' data-letter-spacing='-0.005392537893509522'>Should all the antipatrist hand</span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/9925a938-00ad-41c4-9281-534aceb1dfc1/canvas/9925a938-00ad-41c4-9281-534aceb1dfc1_MSS0796-B001-F001-I001-P015-PROD.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/9925a938-00ad-41c4-9281-534aceb1dfc1/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=333,2465,1743,210",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-e7b3898c-17dd-4573-b753-8595e32c9517: { height: 210px; width: 1743px; font-size: 131.25px; letter-spacing: -9.399193548387096px;}"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "45f8398a-7ff7-4b58-b71e-6fa56aeca74c",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='45f8398a-7ff7-4b58-b71e-6fa56aeca74c' class='anno-45f8398a-7ff7-4b58-b71e-6fa56aeca74c' data-letter-spacing='0.0008725439503619441'>Conspire to take me by the hand.</span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/9925a938-00ad-41c4-9281-534aceb1dfc1/canvas/9925a938-00ad-41c4-9281-534aceb1dfc1_MSS0796-B001-F001-I001-P015-PROD.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/9925a938-00ad-41c4-9281-534aceb1dfc1/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=358,2598,1934,188",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-45f8398a-7ff7-4b58-b71e-6fa56aeca74c: { height: 188px; width: 1934px; font-size: 117.5px; letter-spacing: 1.6875px;}"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "239f388d-a9c9-4a4e-9aa7-3325c54a6dc8",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='239f388d-a9c9-4a4e-9aa7-3325c54a6dc8' class='anno-239f388d-a9c9-4a4e-9aa7-3325c54a6dc8' data-letter-spacing='0.004543997237841571'>With many a promise, many ofee </span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/9925a938-00ad-41c4-9281-534aceb1dfc1/canvas/9925a938-00ad-41c4-9281-534aceb1dfc1_MSS0796-B001-F001-I001-P015-PROD.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/9925a938-00ad-41c4-9281-534aceb1dfc1/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=356,2712,1962,174",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-239f388d-a9c9-4a4e-9aa7-3325c54a6dc8: { height: 174px; width: 1962px; font-size: 108.75px; letter-spacing: 8.915322580645162px;}"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "4a65d9b4-9160-4f6c-b14c-ce712dd10291",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='4a65d9b4-9160-4f6c-b14c-ce712dd10291' class='anno-4a65d9b4-9160-4f6c-b14c-ce712dd10291' data-letter-spacing='0.0514018691588785'>beis</span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/9925a938-00ad-41c4-9281-534aceb1dfc1/canvas/9925a938-00ad-41c4-9281-534aceb1dfc1_MSS0796-B001-F001-I001-P015-PROD.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/9925a938-00ad-41c4-9281-534aceb1dfc1/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=794,2821,107,68",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-4a65d9b4-9160-4f6c-b14c-ce712dd10291: { height: 68px; width: 107px; font-size: 42.5px; letter-spacing: 5.5px;}"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "fc2c926a-32b6-4d8d-bba6-0d7a1d5be43f",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='fc2c926a-32b6-4d8d-bba6-0d7a1d5be43f' class='anno-fc2c926a-32b6-4d8d-bba6-0d7a1d5be43f' data-letter-spacing='0.0048676359646114805'>Nought the seab, theyd gett from me</span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/9925a938-00ad-41c4-9281-534aceb1dfc1/canvas/9925a938-00ad-41c4-9281-534aceb1dfc1_MSS0796-B001-F001-I001-P015-PROD.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/9925a938-00ad-41c4-9281-534aceb1dfc1/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=327,2807,2083,158",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-fc2c926a-32b6-4d8d-bba6-0d7a1d5be43f: { height: 158px; width: 2083px; font-size: 98.75px; letter-spacing: 10.139285714285714px;}"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "4b421b5c-cf92-408c-bde9-76bb99e1b110",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='4b421b5c-cf92-408c-bde9-76bb99e1b110' class='anno-4b421b5c-cf92-408c-bde9-76bb99e1b110' data-letter-spacing='0.039122137404580155'>Gent Mag</span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/9925a938-00ad-41c4-9281-534aceb1dfc1/canvas/9925a938-00ad-41c4-9281-534aceb1dfc1_MSS0796-B001-F001-I001-P015-PROD.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/9925a938-00ad-41c4-9281-534aceb1dfc1/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=2031,2951,393,108",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-4b421b5c-cf92-408c-bde9-76bb99e1b110: { height: 108px; width: 393px; font-size: 67.5px; letter-spacing: 15.375px;}"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "e2a10bc0-c34e-4a64-b04b-3535d2c3af8f",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='e2a10bc0-c34e-4a64-b04b-3535d2c3af8f' class='anno-e2a10bc0-c34e-4a64-b04b-3535d2c3af8f' data-letter-spacing='0.049380068621334997'>Chigram</span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/9925a938-00ad-41c4-9281-534aceb1dfc1/canvas/9925a938-00ad-41c4-9281-534aceb1dfc1_MSS0796-B001-F001-I001-P015-PROD.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/9925a938-00ad-41c4-9281-534aceb1dfc1/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1014,3015,458,137",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-e2a10bc0-c34e-4a64-b04b-3535d2c3af8f: { height: 137px; width: 458px; font-size: 85.625px; letter-spacing: 22.616071428571427px;}"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "406c4b7a-8fc8-4d62-8df7-02ffa78ab681",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='406c4b7a-8fc8-4d62-8df7-02ffa78ab681' class='anno-406c4b7a-8fc8-4d62-8df7-02ffa78ab681' data-letter-spacing='0.0009137426900584795'>Inarahtude the braided in all Climes</span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/9925a938-00ad-41c4-9281-534aceb1dfc1/canvas/9925a938-00ad-41c4-9281-534aceb1dfc1_MSS0796-B001-F001-I001-P015-PROD.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/9925a938-00ad-41c4-9281-534aceb1dfc1/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=356,3061,1710,147",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-406c4b7a-8fc8-4d62-8df7-02ffa78ab681: { height: 147px; width: 1710px; font-size: 91.875px; letter-spacing: 1.5625px;}"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "d8b49b40-4b36-43fe-b5ca-1526bfce344e",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='d8b49b40-4b36-43fe-b5ca-1526bfce344e' class='anno-d8b49b40-4b36-43fe-b5ca-1526bfce344e' data-letter-spacing='0.009487343214140105'>and damd in evny age, theworst of crimes:</span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/9925a938-00ad-41c4-9281-534aceb1dfc1/canvas/9925a938-00ad-41c4-9281-534aceb1dfc1_MSS0796-B001-F001-I001-P015-PROD.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/9925a938-00ad-41c4-9281-534aceb1dfc1/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=360,3164,2034,97",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-d8b49b40-4b36-43fe-b5ca-1526bfce344e: { height: 97px; width: 2034px; font-size: 60.625px; letter-spacing: 19.297256097560975px;}"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "da3e79a7-4188-45f1-93f9-c323e3c873b2",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='da3e79a7-4188-45f1-93f9-c323e3c873b2' class='anno-da3e79a7-4188-45f1-93f9-c323e3c873b2' data-letter-spacing='0.015036437993911626'>tet9 his pasron and the treedeties</span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/9925a938-00ad-41c4-9281-534aceb1dfc1/canvas/9925a938-00ad-41c4-9281-534aceb1dfc1_MSS0796-B001-F001-I001-P015-PROD.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/9925a938-00ad-41c4-9281-534aceb1dfc1/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=364,3214,1913,88",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-da3e79a7-4188-45f1-93f9-c323e3c873b2: { height: 88px; width: 1913px; font-size: 55.0px; letter-spacing: 28.764705882352942px;}"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "f00a2cfb-03ff-4ef4-af64-91d198df2f46",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='f00a2cfb-03ff-4ef4-af64-91d198df2f46' class='anno-f00a2cfb-03ff-4ef4-af64-91d198df2f46' data-letter-spacing='0.00745365813648294'>While for five shillings kilfring, Culprit dies.</span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/9925a938-00ad-41c4-9281-534aceb1dfc1/canvas/9925a938-00ad-41c4-9281-534aceb1dfc1_MSS0796-B001-F001-I001-P015-PROD.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/9925a938-00ad-41c4-9281-534aceb1dfc1/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=384,3312,2032,87",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-f00a2cfb-03ff-4ef4-af64-91d198df2f46: { height: 87px; width: 2032px; font-size: 54.375px; letter-spacing: 15.145833333333334px;}"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "c0a0302c-f15a-410f-847c-7b5394f54029",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='c0a0302c-f15a-410f-847c-7b5394f54029' class='anno-c0a0302c-f15a-410f-847c-7b5394f54029' data-letter-spacing='0.002334812429644755'>aYor pity wretched Catpkill papless doom; </span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/9925a938-00ad-41c4-9281-534aceb1dfc1/canvas/9925a938-00ad-41c4-9281-534aceb1dfc1_MSS0796-B001-F001-I001-P015-PROD.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/9925a938-00ad-41c4-9281-534aceb1dfc1/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=407,3348,1819,125",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-c0a0302c-f15a-410f-847c-7b5394f54029: { height: 125px; width: 1819px; font-size: 78.125px; letter-spacing: 4.247023809523809px;}"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "644913f8-dd90-435a-9253-c511b1edcca9",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='644913f8-dd90-435a-9253-c511b1edcca9' class='anno-644913f8-dd90-435a-9253-c511b1edcca9' data-letter-spacing='0.003473987459752584'>For Smugs I tremble, which is yet to come </span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/9925a938-00ad-41c4-9281-534aceb1dfc1/canvas/9925a938-00ad-41c4-9281-534aceb1dfc1_MSS0796-B001-F001-I001-P015-PROD.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/9925a938-00ad-41c4-9281-534aceb1dfc1/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=425,3422,1967,128",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-644913f8-dd90-435a-9253-c511b1edcca9: { height: 128px; width: 1967px; font-size: 80.0px; letter-spacing: 6.833333333333333px;}"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "76e20077-8eda-4dd2-9e99-029cf07178d2",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='76e20077-8eda-4dd2-9e99-029cf07178d2' class='anno-76e20077-8eda-4dd2-9e99-029cf07178d2' data-letter-spacing='-0.0026843481851970817'>Their tyrant Kings lt slaves revere, </span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/9925a938-00ad-41c4-9281-534aceb1dfc1/canvas/9925a938-00ad-41c4-9281-534aceb1dfc1_MSS0796-B001-F001-I001-P015-PROD.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/9925a938-00ad-41c4-9281-534aceb1dfc1/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=2660,189,1767,168",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-76e20077-8eda-4dd2-9e99-029cf07178d2: { height: 168px; width: 1767px; font-size: 105.0px; letter-spacing: -4.743243243243243px;}"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "0e80103f-80bb-422e-8811-25a6755f1e9f",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='0e80103f-80bb-422e-8811-25a6755f1e9f' class='anno-0e80103f-80bb-422e-8811-25a6755f1e9f' data-letter-spacing='-0.005922903170814865'>Where pale obedience bends in Lear:</span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/9925a938-00ad-41c4-9281-534aceb1dfc1/canvas/9925a938-00ad-41c4-9281-534aceb1dfc1_MSS0796-B001-F001-I001-P015-PROD.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/9925a938-00ad-41c4-9281-534aceb1dfc1/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=2650,318,1676,185",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-0e80103f-80bb-422e-8811-25a6755f1e9f: { height: 185px; width: 1676px; font-size: 115.625px; letter-spacing: -9.926785714285714px;}"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "2d7d8745-4cc0-4e10-a5b6-34d2fa13b362",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='2d7d8745-4cc0-4e10-a5b6-34d2fa13b362' class='anno-2d7d8745-4cc0-4e10-a5b6-34d2fa13b362' data-letter-spacing='0.006381224451876625'>Not so Americas homage the</span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/9925a938-00ad-41c4-9281-534aceb1dfc1/canvas/9925a938-00ad-41c4-9281-534aceb1dfc1_MSS0796-B001-F001-I001-P015-PROD.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/9925a938-00ad-41c4-9281-534aceb1dfc1/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=2629,432,1656,170",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-2d7d8745-4cc0-4e10-a5b6-34d2fa13b362: { height: 170px; width: 1656px; font-size: 106.25px; letter-spacing: 10.567307692307692px;}"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "109f7af0-785d-4e3c-a36a-0f644e5ab6d0",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='109f7af0-785d-4e3c-a36a-0f644e5ab6d0' class='anno-109f7af0-785d-4e3c-a36a-0f644e5ab6d0' data-letter-spacing='5.287648054145516e-05'>The monarch whom they love, obey</span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/9925a938-00ad-41c4-9281-534aceb1dfc1/canvas/9925a938-00ad-41c4-9281-534aceb1dfc1_MSS0796-B001-F001-I001-P015-PROD.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/9925a938-00ad-41c4-9281-534aceb1dfc1/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=2656,558,1773,177",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-109f7af0-785d-4e3c-a36a-0f644e5ab6d0: { height: 177px; width: 1773px; font-size: 110.625px; letter-spacing: 0.09375px;}"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "ff06d9fd-fafa-4af5-9f18-68dc138ea8f0",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='ff06d9fd-fafa-4af5-9f18-68dc138ea8f0' class='anno-ff06d9fd-fafa-4af5-9f18-68dc138ea8f0' data-letter-spacing='-0.00047468354430379745'>From that bright sounce true glaty darts</span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/9925a938-00ad-41c4-9281-534aceb1dfc1/canvas/9925a938-00ad-41c4-9281-534aceb1dfc1_MSS0796-B001-F001-I001-P015-PROD.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/9925a938-00ad-41c4-9281-534aceb1dfc1/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=2646,674,1975,161",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-ff06d9fd-fafa-4af5-9f18-68dc138ea8f0: { height: 161px; width: 1975px; font-size: 100.625px; letter-spacing: -0.9375px;}"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "8d5fc9dd-5a91-42e8-aba1-64bb025514b9",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='8d5fc9dd-5a91-42e8-aba1-64bb025514b9' class='anno-8d5fc9dd-5a91-42e8-aba1-64bb025514b9' data-letter-spacing='-0.007692492319508449'>Where kings sare kings of subjects hearts </span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/9925a938-00ad-41c4-9281-534aceb1dfc1/canvas/9925a938-00ad-41c4-9281-534aceb1dfc1_MSS0796-B001-F001-I001-P015-PROD.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/9925a938-00ad-41c4-9281-534aceb1dfc1/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=2631,782,1984,200",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-8d5fc9dd-5a91-42e8-aba1-64bb025514b9: { height: 200px; width: 1984px; font-size: 125.0px; letter-spacing: -15.261904761904763px;}"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "b4f3a440-13ae-4e96-a01e-297d8a7cc26a",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='b4f3a440-13ae-4e96-a01e-297d8a7cc26a' class='anno-b4f3a440-13ae-4e96-a01e-297d8a7cc26a' data-letter-spacing='-0.004803563761270931'>Where loberty in siles of praise, </span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/9925a938-00ad-41c4-9281-534aceb1dfc1/canvas/9925a938-00ad-41c4-9281-534aceb1dfc1_MSS0796-B001-F001-I001-P015-PROD.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/9925a938-00ad-41c4-9281-534aceb1dfc1/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=2633,892,1781,195",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-b4f3a440-13ae-4e96-a01e-297d8a7cc26a: { height: 195px; width: 1781px; font-size: 121.875px; letter-spacing: -8.555147058823529px;}"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "81fa3ef5-1a9a-4847-9df1-bf6166a5bf32",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='81fa3ef5-1a9a-4847-9df1-bf6166a5bf32' class='anno-81fa3ef5-1a9a-4847-9df1-bf6166a5bf32' data-letter-spacing='-0.0037609507396237254'>The Clesings she receives repars.</span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/9925a938-00ad-41c4-9281-534aceb1dfc1/canvas/9925a938-00ad-41c4-9281-534aceb1dfc1_MSS0796-B001-F001-I001-P015-PROD.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/9925a938-00ad-41c4-9281-534aceb1dfc1/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=2659,1013,1688,184",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-81fa3ef5-1a9a-4847-9df1-bf6166a5bf32: { height: 184px; width: 1688px; font-size: 115.0px; letter-spacing: -6.348484848484849px;}"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "f47470c8-abe6-4a6b-9c8a-1796ee694e90",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='f47470c8-abe6-4a6b-9c8a-1796ee694e90' class='anno-f47470c8-abe6-4a6b-9c8a-1796ee694e90' data-letter-spacing='0.08563182438580529'>Th Bett</span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/9925a938-00ad-41c4-9281-534aceb1dfc1/canvas/9925a938-00ad-41c4-9281-534aceb1dfc1_MSS0796-B001-F001-I001-P015-PROD.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/9925a938-00ad-41c4-9281-534aceb1dfc1/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=3030,1138,628,115",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-f47470c8-abe6-4a6b-9c8a-1796ee694e90: { height: 115px; width: 628px; font-size: 71.875px; letter-spacing: 53.776785714285715px;}"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "48e2bd4c-6eba-49d5-8c55-c2e282b14a77",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='48e2bd4c-6eba-49d5-8c55-c2e282b14a77' class='anno-48e2bd4c-6eba-49d5-8c55-c2e282b14a77' data-letter-spacing='-0.0026101349630761397'>When each sto volemin pound Thear</span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/9925a938-00ad-41c4-9281-534aceb1dfc1/canvas/9925a938-00ad-41c4-9281-534aceb1dfc1_MSS0796-B001-F001-I001-P015-PROD.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/9925a938-00ad-41c4-9281-534aceb1dfc1/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=2687,1159,1785,188",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-48e2bd4c-6eba-49d5-8c55-c2e282b14a77: { height: 188px; width: 1785px; font-size: 117.5px; letter-spacing: -4.659090909090909px;}"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "e30baae0-28e6-4332-af19-32e458ed046c",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='e30baae0-28e6-4332-af19-32e458ed046c' class='anno-e30baae0-28e6-4332-af19-32e458ed046c' data-letter-spacing='0.004479902905690012'>To me gives Ratal proof</span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/9925a938-00ad-41c4-9281-534aceb1dfc1/canvas/9925a938-00ad-41c4-9281-534aceb1dfc1_MSS0796-B001-F001-I001-P015-PROD.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/9925a938-00ad-41c4-9281-534aceb1dfc1/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=2875,1291,1218,152",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-e30baae0-28e6-4332-af19-32e458ed046c: { height: 152px; width: 1218px; font-size: 95.0px; letter-spacing: 5.456521739130435px;}"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "ea48a239-6ea7-4e33-ad53-035a0d2db74b",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='ea48a239-6ea7-4e33-ad53-035a0d2db74b' class='anno-ea48a239-6ea7-4e33-ad53-035a0d2db74b' data-letter-spacing='-0.002524210410476505'>Remorseless death has jutt been there, </span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/9925a938-00ad-41c4-9281-534aceb1dfc1/canvas/9925a938-00ad-41c4-9281-534aceb1dfc1_MSS0796-B001-F001-I001-P015-PROD.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/9925a938-00ad-41c4-9281-534aceb1dfc1/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=2697,1325,1864,168",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-ea48a239-6ea7-4e33-ad53-035a0d2db74b: { height: 168px; width: 1864px; font-size: 105.0px; letter-spacing: -4.705128205128205px;}"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "b2293189-c72e-4508-a0ff-a9d4f7bfa619",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='b2293189-c72e-4508-a0ff-a9d4f7bfa619' class='anno-b2293189-c72e-4508-a0ff-a9d4f7bfa619' data-letter-spacing='0.006562756357670222'>To befor a mortate oft.</span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/9925a938-00ad-41c4-9281-534aceb1dfc1/canvas/9925a938-00ad-41c4-9281-534aceb1dfc1_MSS0796-B001-F001-I001-P015-PROD.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/9925a938-00ad-41c4-9281-534aceb1dfc1/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=2861,1456,1219,144",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-b2293189-c72e-4508-a0ff-a9d4f7bfa619: { height: 144px; width: 1219px; font-size: 90.0px; letter-spacing: 8.0px;}"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "843b3328-92e3-452a-b731-f82d9497e359",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='843b3328-92e3-452a-b731-f82d9497e359' class='anno-843b3328-92e3-452a-b731-f82d9497e359' data-letter-spacing='-0.004555645840857108'>Warnd thres, may t the Summons take </span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/9925a938-00ad-41c4-9281-534aceb1dfc1/canvas/9925a938-00ad-41c4-9281-534aceb1dfc1_MSS0796-B001-F001-I001-P015-PROD.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/9925a938-00ad-41c4-9281-534aceb1dfc1/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=2697,1529,1846,191",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-843b3328-92e3-452a-b731-f82d9497e359: { height: 191px; width: 1846px; font-size: 119.375px; letter-spacing: -8.409722222222221px;}"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "a44bd773-d2d7-4f1f-ba55-4c4aa0672121",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='a44bd773-d2d7-4f1f-ba55-4c4aa0672121' class='anno-a44bd773-d2d7-4f1f-ba55-4c4aa0672121' data-letter-spacing='0.008383964736716702'>And think what I must be</span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/9925a938-00ad-41c4-9281-534aceb1dfc1/canvas/9925a938-00ad-41c4-9281-534aceb1dfc1_MSS0796-B001-F001-I001-P015-PROD.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/9925a938-00ad-41c4-9281-534aceb1dfc1/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=2870,1638,1399,149",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-a44bd773-d2d7-4f1f-ba55-4c4aa0672121: { height: 149px; width: 1399px; font-size: 93.125px; letter-spacing: 11.729166666666666px;}"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "efbc148e-1c8b-4046-a548-8b389f583b2a",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='efbc148e-1c8b-4046-a548-8b389f583b2a' class='anno-efbc148e-1c8b-4046-a548-8b389f583b2a' data-letter-spacing='-0.005158831183525684'>My Friends the wise improvement make</span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/9925a938-00ad-41c4-9281-534aceb1dfc1/canvas/9925a938-00ad-41c4-9281-534aceb1dfc1_MSS0796-B001-F001-I001-P015-PROD.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/9925a938-00ad-41c4-9281-534aceb1dfc1/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=2692,1681,1964,207",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-efbc148e-1c8b-4046-a548-8b389f583b2a: { height: 207px; width: 1964px; font-size: 129.375px; letter-spacing: -10.131944444444445px;}"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "a35395a5-b765-46e4-919b-00a2fab3becb",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='a35395a5-b765-46e4-919b-00a2fab3becb' class='anno-a35395a5-b765-46e4-919b-00a2fab3becb' data-letter-spacing='0.0058966861598440555'>When thus it pounds for me.</span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/9925a938-00ad-41c4-9281-534aceb1dfc1/canvas/9925a938-00ad-41c4-9281-534aceb1dfc1_MSS0796-B001-F001-I001-P015-PROD.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/9925a938-00ad-41c4-9281-534aceb1dfc1/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=2867,1813,1425,142",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-a35395a5-b765-46e4-919b-00a2fab3becb: { height: 142px; width: 1425px; font-size: 88.75px; letter-spacing: 8.402777777777779px;}"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "c91e0a92-c897-406b-8fb6-144d2bbf789f",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='c91e0a92-c897-406b-8fb6-144d2bbf789f' class='anno-c91e0a92-c897-406b-8fb6-144d2bbf789f' data-letter-spacing='-0.012766258780874687'>Cpitaph deviand for its author</span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/9925a938-00ad-41c4-9281-534aceb1dfc1/canvas/9925a938-00ad-41c4-9281-534aceb1dfc1_MSS0796-B001-F001-I001-P015-PROD.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/9925a938-00ad-41c4-9281-534aceb1dfc1/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=2776,1919,1471,217",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-c91e0a92-c897-406b-8fb6-144d2bbf789f: { height: 217px; width: 1471px; font-size: 135.625px; letter-spacing: -18.779166666666665px;}"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "dcc4edc6-8cb4-443d-83ad-292a8bd65d91",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='dcc4edc6-8cb4-443d-83ad-292a8bd65d91' class='anno-dcc4edc6-8cb4-443d-83ad-292a8bd65d91' data-letter-spacing='-0.004770048184477714'>I had my feetings he the truth confessd</span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/9925a938-00ad-41c4-9281-534aceb1dfc1/canvas/9925a938-00ad-41c4-9281-534aceb1dfc1_MSS0796-B001-F001-I001-P015-PROD.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/9925a938-00ad-41c4-9281-534aceb1dfc1/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=2559,2029,1788,174",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-dcc4edc6-8cb4-443d-83ad-292a8bd65d91: { height: 174px; width: 1788px; font-size: 108.75px; letter-spacing: -8.528846153846153px;}"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "dafab43d-096b-4f70-b118-35c6af8811c5",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='dafab43d-096b-4f70-b118-35c6af8811c5' class='anno-dafab43d-096b-4f70-b118-35c6af8811c5' data-letter-spacing='-0.0012065042070332967'>And reader, transt thoy feast a Clameless bread</span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/9925a938-00ad-41c4-9281-534aceb1dfc1/canvas/9925a938-00ad-41c4-9281-534aceb1dfc1_MSS0796-B001-F001-I001-P015-PROD.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/9925a938-00ad-41c4-9281-534aceb1dfc1/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=2556,2114,2071,149",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-dafab43d-096b-4f70-b118-35c6af8811c5: { height: 149px; width: 2071px; font-size: 93.125px; letter-spacing: -2.4986702127659575px;}"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "bee96d66-aad8-4516-85e5-9184712fd839",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='bee96d66-aad8-4516-85e5-9184712fd839' class='anno-bee96d66-aad8-4516-85e5-9184712fd839' data-letter-spacing='0.00479983660130719'>Nor hold me all defect; I had a mind</span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/9925a938-00ad-41c4-9281-534aceb1dfc1/canvas/9925a938-00ad-41c4-9281-534aceb1dfc1_MSS0796-B001-F001-I001-P015-PROD.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/9925a938-00ad-41c4-9281-534aceb1dfc1/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=2584,2229,1564,115",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-bee96d66-aad8-4516-85e5-9184712fd839: { height: 115px; width: 1564px; font-size: 71.875px; letter-spacing: 7.506944444444445px;}"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "3375fe79-7baf-4a11-9eec-b9c652214b6b",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='3375fe79-7baf-4a11-9eec-b9c652214b6b' class='anno-3375fe79-7baf-4a11-9eec-b9c652214b6b' data-letter-spacing='0.001312939902544667'>That with all happinals to all mankind; </span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/9925a938-00ad-41c4-9281-534aceb1dfc1/canvas/9925a938-00ad-41c4-9281-534aceb1dfc1_MSS0796-B001-F001-I001-P015-PROD.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/9925a938-00ad-41c4-9281-534aceb1dfc1/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=2584,2276,1847,140",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-3375fe79-7baf-4a11-9eec-b9c652214b6b: { height: 140px; width: 1847px; font-size: 87.5px; letter-spacing: 2.425px;}"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "3f28cad1-f765-40e6-8e1c-3df848312050",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='3f28cad1-f765-40e6-8e1c-3df848312050' class='anno-3f28cad1-f765-40e6-8e1c-3df848312050' data-letter-spacing='0.005393516032010312'>That more than wishd the tittle in my powr </span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/9925a938-00ad-41c4-9281-534aceb1dfc1/canvas/9925a938-00ad-41c4-9281-534aceb1dfc1_MSS0796-B001-F001-I001-P015-PROD.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/9925a938-00ad-41c4-9281-534aceb1dfc1/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=2595,2403,1732,99",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-3f28cad1-f765-40e6-8e1c-3df848312050: { height: 99px; width: 1732px; font-size: 61.875px; letter-spacing: 9.341569767441861px;}"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "16a07ec8-c149-47e8-b860-2e32568ca420",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='16a07ec8-c149-47e8-b860-2e32568ca420' class='anno-16a07ec8-c149-47e8-b860-2e32568ca420' data-letter-spacing='-0.0020151097322762264'>I cheard the sormowing soothd the dying hour </span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/9925a938-00ad-41c4-9281-534aceb1dfc1/canvas/9925a938-00ad-41c4-9281-534aceb1dfc1_MSS0796-B001-F001-I001-P015-PROD.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/9925a938-00ad-41c4-9281-534aceb1dfc1/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=2590,2428,1934,150",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-16a07ec8-c149-47e8-b860-2e32568ca420: { height: 150px; width: 1934px; font-size: 93.75px; letter-spacing: -3.897222222222222px;}"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "8c1c7c1c-b079-464d-8600-eea20fa0676d",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='8c1c7c1c-b079-464d-8600-eea20fa0676d' class='anno-8c1c7c1c-b079-464d-8600-eea20fa0676d' data-letter-spacing='-0.00020676691729323306'>Hearnd tho in vain, to save lifes pantioa thread, </span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/9925a938-00ad-41c4-9281-534aceb1dfc1/canvas/9925a938-00ad-41c4-9281-534aceb1dfc1_MSS0796-B001-F001-I001-P015-PROD.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/9925a938-00ad-41c4-9281-534aceb1dfc1/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=2581,2519,1995,129",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-8c1c7c1c-b079-464d-8600-eea20fa0676d: { height: 129px; width: 1995px; font-size: 80.625px; letter-spacing: -0.4125px;}"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "df731a97-0ff0-447f-a612-cf7953ae8d96",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='df731a97-0ff0-447f-a612-cf7953ae8d96' class='anno-df731a97-0ff0-447f-a612-cf7953ae8d96' data-letter-spacing='0.006281565656565656'>Much mournd the pious, mone the vicious dead.</span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/9925a938-00ad-41c4-9281-534aceb1dfc1/canvas/9925a938-00ad-41c4-9281-534aceb1dfc1_MSS0796-B001-F001-I001-P015-PROD.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/9925a938-00ad-41c4-9281-534aceb1dfc1/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=2585,2634,1980,101",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-df731a97-0ff0-447f-a612-cf7953ae8d96: { height: 101px; width: 1980px; font-size: 63.125px; letter-spacing: 12.4375px;}"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "fc01d340-e65a-4c76-866d-a710b8ed733a",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='fc01d340-e65a-4c76-866d-a710b8ed733a' class='anno-fc01d340-e65a-4c76-866d-a710b8ed733a' data-letter-spacing='0.00022221908685591738'>Spare me one tear, and then, kind neaders, go, </span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/9925a938-00ad-41c4-9281-534aceb1dfc1/canvas/9925a938-00ad-41c4-9281-534aceb1dfc1_MSS0796-B001-F001-I001-P015-PROD.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/9925a938-00ad-41c4-9281-534aceb1dfc1/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=2589,2682,1885,127",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-fc01d340-e65a-4c76-866d-a710b8ed733a: { height: 127px; width: 1885px; font-size: 79.375px; letter-spacing: 0.41888297872340424px;}"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "38493351-8915-44c3-a1df-69c854dd2a78",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='38493351-8915-44c3-a1df-69c854dd2a78' class='anno-38493351-8915-44c3-a1df-69c854dd2a78' data-letter-spacing='0.0005807200929152149'>Live foe to none, and die without a loe; </span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/9925a938-00ad-41c4-9281-534aceb1dfc1/canvas/9925a938-00ad-41c4-9281-534aceb1dfc1_MSS0796-B001-F001-I001-P015-PROD.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/9925a938-00ad-41c4-9281-534aceb1dfc1/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=2580,2781,1785,136",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-38493351-8915-44c3-a1df-69c854dd2a78: { height: 136px; width: 1785px; font-size: 85.0px; letter-spacing: 1.0365853658536586px;}"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "04f66b82-e4f9-42f8-949c-5d364f9a0b86",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='04f66b82-e4f9-42f8-949c-5d364f9a0b86' class='anno-04f66b82-e4f9-42f8-949c-5d364f9a0b86' data-letter-spacing='-0.005637254901960784'>Live and if possible, inlarge thy plan, </span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/9925a938-00ad-41c4-9281-534aceb1dfc1/canvas/9925a938-00ad-41c4-9281-534aceb1dfc1_MSS0796-B001-F001-I001-P015-PROD.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/9925a938-00ad-41c4-9281-534aceb1dfc1/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=2556,2824,1734,170",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-04f66b82-e4f9-42f8-949c-5d364f9a0b86: { height: 170px; width: 1734px; font-size: 106.25px; letter-spacing: -9.775px;}"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "25101d08-07e0-4b47-9fd2-a60b07b1509f",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='25101d08-07e0-4b47-9fd2-a60b07b1509f' class='anno-25101d08-07e0-4b47-9fd2-a60b07b1509f' data-letter-spacing='0.006174341242563529'>Not live alone die too the friend of man,</span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/9925a938-00ad-41c4-9281-534aceb1dfc1/canvas/9925a938-00ad-41c4-9281-534aceb1dfc1_MSS0796-B001-F001-I001-P015-PROD.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/9925a938-00ad-41c4-9281-534aceb1dfc1/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=2591,2911,1767,103",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-25101d08-07e0-4b47-9fd2-a60b07b1509f: { height: 103px; width: 1767px; font-size: 64.375px; letter-spacing: 10.910060975609756px;}"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "a69360f0-0aac-4018-8e08-325e3239b45c",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='a69360f0-0aac-4018-8e08-325e3239b45c' class='anno-a69360f0-0aac-4018-8e08-325e3239b45c' data-letter-spacing='0.007979984822614306'>And when our dust obeys the trumpets call </span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/9925a938-00ad-41c4-9281-534aceb1dfc1/canvas/9925a938-00ad-41c4-9281-534aceb1dfc1_MSS0796-B001-F001-I001-P015-PROD.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/9925a938-00ad-41c4-9281-534aceb1dfc1/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=2602,3014,1757,89",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-a69360f0-0aac-4018-8e08-325e3239b45c: { height: 89px; width: 1757px; font-size: 55.625px; letter-spacing: 14.020833333333334px;}"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "c5997774-9b6c-4e7e-940c-97195bbe148e",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='c5997774-9b6c-4e7e-940c-97195bbe148e' class='anno-c5997774-9b6c-4e7e-940c-97195bbe148e' data-letter-spacing='-0.01024948559670782'>Hill prove our friend who live and dyd Aorall</span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/9925a938-00ad-41c4-9281-534aceb1dfc1/canvas/9925a938-00ad-41c4-9281-534aceb1dfc1_MSS0796-B001-F001-I001-P015-PROD.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/9925a938-00ad-41c4-9281-534aceb1dfc1/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=2613,3006,1944,202",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-c5997774-9b6c-4e7e-940c-97195bbe148e: { height: 202px; width: 1944px; font-size: 126.25px; letter-spacing: -19.925px;}"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "86c3562f-a3e4-4e34-bb65-004a47680812",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='86c3562f-a3e4-4e34-bb65-004a47680812' class='anno-86c3562f-a3e4-4e34-bb65-004a47680812' data-letter-spacing='0.017639372822299652'>gent. M</span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/9925a938-00ad-41c4-9281-534aceb1dfc1/canvas/9925a938-00ad-41c4-9281-534aceb1dfc1_MSS0796-B001-F001-I001-P015-PROD.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/9925a938-00ad-41c4-9281-534aceb1dfc1/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=4307,3114,287,115",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-86c3562f-a3e4-4e34-bb65-004a47680812: { height: 115px; width: 287px; font-size: 71.875px; letter-spacing: 5.0625px;}"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "86057320-de02-498e-9f03-7363495db81b",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='86057320-de02-498e-9f03-7363495db81b' class='anno-86057320-de02-498e-9f03-7363495db81b' data-letter-spacing='0.7153465346534653'> </span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/9925a938-00ad-41c4-9281-534aceb1dfc1/canvas/9925a938-00ad-41c4-9281-534aceb1dfc1_MSS0796-B001-F001-I001-P015-PROD.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/9925a938-00ad-41c4-9281-534aceb1dfc1/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=3864,3151,101,92",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-86057320-de02-498e-9f03-7363495db81b: { height: 92px; width: 101px; font-size: 57.5px; letter-spacing: 72.25px;}"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "0e971e88-e85f-413c-b117-9eb832593655",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='0e971e88-e85f-413c-b117-9eb832593655' class='anno-0e971e88-e85f-413c-b117-9eb832593655' data-letter-spacing='0.02153644629372785'>Spigram toLady</span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/9925a938-00ad-41c4-9281-534aceb1dfc1/canvas/9925a938-00ad-41c4-9281-534aceb1dfc1_MSS0796-B001-F001-I001-P015-PROD.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/9925a938-00ad-41c4-9281-534aceb1dfc1/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=2965,3153,927,148",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-0e971e88-e85f-413c-b117-9eb832593655: { height: 148px; width: 927px; font-size: 92.5px; letter-spacing: 19.964285714285715px;}"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "67db0438-a733-4c42-8578-b18d7ab23bbe",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='67db0438-a733-4c42-8578-b18d7ab23bbe' class='anno-67db0438-a733-4c42-8578-b18d7ab23bbe' data-letter-spacing='-0.0017129733249231895'>When in your glass that beariteous form surveyd, </span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/9925a938-00ad-41c4-9281-534aceb1dfc1/canvas/9925a938-00ad-41c4-9281-534aceb1dfc1_MSS0796-B001-F001-I001-P015-PROD.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/9925a938-00ad-41c4-9281-534aceb1dfc1/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=2624,3220,2006,142",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-67db0438-a733-4c42-8578-b18d7ab23bbe: { height: 142px; width: 2006px; font-size: 88.75px; letter-spacing: -3.436224489795918px;}"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "234bca60-051f-463e-bb12-85e9a890d192",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='234bca60-051f-463e-bb12-85e9a890d192' class='anno-234bca60-051f-463e-bb12-85e9a890d192' data-letter-spacing='0.00181470104154888'>And pride would fan exclaimt Cetestial maid</span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/9925a938-00ad-41c4-9281-534aceb1dfc1/canvas/9925a938-00ad-41c4-9281-534aceb1dfc1_MSS0796-B001-F001-I001-P015-PROD.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/9925a938-00ad-41c4-9281-534aceb1dfc1/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=2540,3332,1851,127",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-234bca60-051f-463e-bb12-85e9a890d192: { height: 127px; width: 1851px; font-size: 79.375px; letter-spacing: 3.359011627906977px;}"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "d73e5850-1860-4605-8327-ee46833bd816",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='d73e5850-1860-4605-8327-ee46833bd816' class='anno-d73e5850-1860-4605-8327-ee46833bd816' data-letter-spacing='0.00017315260732225158'>Think hong precesely like that glass ams </span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/9925a938-00ad-41c4-9281-534aceb1dfc1/canvas/9925a938-00ad-41c4-9281-534aceb1dfc1_MSS0796-B001-F001-I001-P015-PROD.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/9925a938-00ad-41c4-9281-534aceb1dfc1/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=2574,3402,1884,146",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-d73e5850-1860-4605-8327-ee46833bd816: { height: 146px; width: 1884px; font-size: 91.25px; letter-spacing: 0.32621951219512196px;}"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "fc66d339-56ce-4b7c-84bb-4b0206773f54",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='fc66d339-56ce-4b7c-84bb-4b0206773f54' class='anno-fc66d339-56ce-4b7c-84bb-4b0206773f54' data-letter-spacing='-0.003085341716148562'>Splendid, but frait a beauty but must die.</span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/9925a938-00ad-41c4-9281-534aceb1dfc1/canvas/9925a938-00ad-41c4-9281-534aceb1dfc1_MSS0796-B001-F001-I001-P015-PROD.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/9925a938-00ad-41c4-9281-534aceb1dfc1/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=2558,3478,2045,176",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-fc66d339-56ce-4b7c-84bb-4b0206773f54: { height: 176px; width: 2045px; font-size: 110.0px; letter-spacing: -6.309523809523809px;}"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "ed143639-e1ea-40e7-9bdd-b1a2e7218fe7",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='ed143639-e1ea-40e7-9bdd-b1a2e7218fe7' class='anno-ed143639-e1ea-40e7-9bdd-b1a2e7218fe7' data-letter-spacing='-0.003424657534246575'>Gent May</span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/9925a938-00ad-41c4-9281-534aceb1dfc1/canvas/9925a938-00ad-41c4-9281-534aceb1dfc1_MSS0796-B001-F001-I001-P015-PROD.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/9925a938-00ad-41c4-9281-534aceb1dfc1/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=4249,3572,365,150",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-ed143639-e1ea-40e7-9bdd-b1a2e7218fe7: { height: 150px; width: 365px; font-size: 93.75px; letter-spacing: -1.25px;}"
+            }
+        }
+    ]
+}
